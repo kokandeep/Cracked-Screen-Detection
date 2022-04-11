@@ -10,7 +10,7 @@ A powerful tool used to detect screen damage in mobile phones based on CNN VGG16
 ## Run Locally
 
 ```bash
-  git clonehttps://github.com/shubendu/Mobile-Screen-Damage-Assessment.git
+  git clone https://github.com/kokandeep/Damaged-Screen-Detection.git
 ```
 
 Go to the project directory
